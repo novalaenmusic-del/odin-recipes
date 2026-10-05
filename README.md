@@ -1,0 +1,1 @@
+This is the first step in the Odin Project to setup a Git repository.
